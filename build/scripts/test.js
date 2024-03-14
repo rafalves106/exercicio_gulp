@@ -1,0 +1,1 @@
+function calcularSoma(u,n){return u+n}const num1=5,num2=10,resultado=calcularSoma(num1,num2);console.log("A soma de",num1,"e",num2,"é:",resultado);

@@ -1,0 +1,15 @@
+@use 'variaveis';
+
+body {
+    background-color: variaveis.$main-blue;
+}
+
+h1 {
+    color: variaveis.$main-white;
+    font-family: variaveis.$headingFont;
+}
+
+p {
+    color: variaveis.$main-yellow;
+    font-family: variaveis.$paragraphFont;
+}
